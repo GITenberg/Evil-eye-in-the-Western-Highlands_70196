@@ -1,0 +1,27 @@
+_repo: Evil-eye-in-the-Western-Highlands_70196
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maclagan, Robert Craig
+    gutenberg_agent_id: '55647'
+    url: http://www.gutenberg.org/2009/agents/55647
+description: ''
+gutenberg_issued: '2023-03-03'
+identifiers:
+  gutenberg: '70196'
+language: en
+pgterms:marc904: https://archive.org/details/evileyeinwestern00maclrich/
+pgterms:marc905: 20220103133013mclagan
+pgterms:marc906: '1902'
+pgterms:marc907: GB
+production_note: Susan Skinner, Les Galloway and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bDavid Nutt, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Evil eye in the Western Highlands
+url: http://www.gutenberg.org/ebooks/70196
