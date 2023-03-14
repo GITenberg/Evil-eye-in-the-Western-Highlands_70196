@@ -1,11 +1,16 @@
 _repo: Evil-eye-in-the-Western-Highlands_70196
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70196-h/images/cover.jpg
 creator:
   author:
     agent_name: Maclagan, Robert Craig
     gutenberg_agent_id: '55647'
     url: http://www.gutenberg.org/2009/agents/55647
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70196#Evil-eye-in-the-Western-Highlands
 gutenberg_issued: '2023-03-03'
 identifiers:
   gutenberg: '70196'
